@@ -1,1 +1,4 @@
 Bu reflection repository' nin ilk satırlarıdır.
+
+
+Bazı yeni şeyler ekledim ve bu da ikinci commit olacak.
